@@ -28,7 +28,7 @@ This commands includes
 
 ## Output
 
-##Netstat
+###Netstat
 
 <img width="1453" height="1012" alt="image" src="https://github.com/user-attachments/assets/0fe98b77-15b8-48d9-b6a1-d69e87d52b1c" />
 
